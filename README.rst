@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHaritestrisk%2FKiwi.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHaritestrisk%2FKiwi?ref=badge_shield)
+
 Kiwi TCMS - open source test management
 =======================================
 
@@ -142,3 +144,7 @@ Support
 
 Commercial support for Kiwi TCMS is also available.
 For more information see http://kiwitcms.org.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHaritestrisk%2FKiwi.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHaritestrisk%2FKiwi?ref=badge_large)
